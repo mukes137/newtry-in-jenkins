@@ -1,1 +1,3 @@
 second repo try
+the second repo try succeded 
+now i am trying to customize the file and again try to push the updated text file
